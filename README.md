@@ -14,6 +14,8 @@ Table of content:
 # b) Publications
 2018, Lahoti, Preethi, Kiran Garimella, and Aristides Gionis. "Joint non-negative matrix factorization for learning ideological leaning on Twitter." In Proceedings of the Eleventh ACM International Conference on Web Search and Data Mining, pp. 351-359. ACM, 2018. https://arxiv.org/pdf/1711.10251
 
+2018, Lahoti, Preethi, Kiran Garimella, and Aristides Gionis. "Joint non-negative matrix factorization for learning ideological leaning on Twitter." In Proceedings of the Eleventh ACM International Conference on Web Search and Data Mining, pp. 351-359. ACM, 2018. https://arxiv.org/pdf/1711.10251 
+
 2017, Dong, Rui, Yizhou Sun, Lu Wang, Yupeng Gu, and Yuan Zhong. "Weakly-Guided User Stance Prediction via Joint Modeling of Content and Social Interaction." In Proceedings of the 2017 ACM on Conference on Information and Knowledge Management, pp. 1249-1258. ACM, 2017. http://web.cs.ucla.edu/~yzsun/papers/2017_cikm_stance.pdf 
 
 2017, Dey, Kuntal, Ritvik Shrivastava, and Saroj Kaushik. "Twitter stance detection-a subjectivity and sentiment polarity inspired two-phase approach." In SENTIRE Workshop, ICDM. 2017. http://sentic.net/sentire2017dey.pdf 
