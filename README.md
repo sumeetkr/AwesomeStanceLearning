@@ -1,6 +1,7 @@
 # Awesome Stance Learning
 The page lists recent research developments in the area of Stance and Ideology (in political sense) Learning. This page includes a) Data repository b) Recent Publications c) Tutorials d) d) Other Useful Websites e) Related Work, but not necessarily on Stance
 
+If you are new to this field, the paper titled "Parinaz Sobhani, and Svetlana Kiritchenko. 2017. Stance and Sentiment in Tweets." is a good place to start.
 
 Table of content:
 
@@ -10,11 +11,16 @@ Table of content:
 
 2017, Simaki, Vasiliki, Carita Paradis, Maria Skeppstedt, Magnus Sahlgren, Kostiantyn Kucher, and Andreas Kerren. "Annotating speaker stance in discourse: the Brexit Blog Corpus." Corpus Linguistics and Linguistic Theory (2017).
 
+Task 6: Detecting Stance in Tweets http://alt.qcri.org/semeval2016/task6/ 
 
 # b) Publications
 2018, Lahoti, Preethi, Kiran Garimella, and Aristides Gionis. "Joint non-negative matrix factorization for learning ideological leaning on Twitter." In Proceedings of the Eleventh ACM International Conference on Web Search and Data Mining, pp. 351-359. ACM, 2018. https://arxiv.org/pdf/1711.10251
 
 2018, Lahoti, Preethi, Kiran Garimella, and Aristides Gionis. "Joint non-negative matrix factorization for learning ideological leaning on Twitter." In Proceedings of the Eleventh ACM International Conference on Web Search and Data Mining, pp. 351-359. ACM, 2018. https://arxiv.org/pdf/1711.10251 
+
+2017, Joseph, K., Friedland, L., Hobbs, W., Lazar, D. & Tsur, O. (2017). Constance: Modeling Annotation Contexts to Improve Stance Classification. EMNLP 2017.  https://kennyjoseph.github.io/papers/emnlp2017.pdf
+
+2017, Saif M. Mohammad, Parinaz Sobhani, and Svetlana Kiritchenko. 2017. Stance and Sentiment in Tweets. ACM Trans. Internet Technol. 17, 3, Article 26 (June 2017), 23 pages. DOI: https://doi.org/10.1145/3003433
 
 2017, Dong, Rui, Yizhou Sun, Lu Wang, Yupeng Gu, and Yuan Zhong. "Weakly-Guided User Stance Prediction via Joint Modeling of Content and Social Interaction." In Proceedings of the 2017 ACM on Conference on Information and Knowledge Management, pp. 1249-1258. ACM, 2017. http://web.cs.ucla.edu/~yzsun/papers/2017_cikm_stance.pdf 
 
@@ -43,5 +49,6 @@ Table of content:
 # c) Tutorials
 
 # d) Other Useful Websites
+Task 6: Detecting Stance in Tweets http://alt.qcri.org/semeval2016/task6/ 
 
 # e) Related Work, but not necessarily on Stance
