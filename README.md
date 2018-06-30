@@ -18,7 +18,7 @@ Table of content:
 Task 6: Detecting Stance in Tweets http://alt.qcri.org/semeval2016/task6/ 
 
 # b) Publications
-2018, Lahoti, Preethi, Kiran Garimella, and Aristides Gionis. "Joint non-negative matrix factorization for learning ideological leaning on Twitter." In Proceedings of the Eleventh ACM International Conference on Web Search and Data Mining, pp. 351-359. ACM, 2018. https://arxiv.org/pdf/1711.10251
+2018, Myungha Jang, James Allan, Explaining Controversy on Social Media via Stance Summarization, https://people.cs.umass.edu/~mhjang/papers/ExplainControversySIGIR18.pdf
 
 2018, Lahoti, Preethi, Kiran Garimella, and Aristides Gionis. "Joint non-negative matrix factorization for learning ideological leaning on Twitter." In Proceedings of the Eleventh ACM International Conference on Web Search and Data Mining, pp. 351-359. ACM, 2018. https://arxiv.org/pdf/1711.10251 
 
