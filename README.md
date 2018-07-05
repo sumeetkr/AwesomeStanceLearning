@@ -1,7 +1,7 @@
 # Awesome Stance Learning
 The page lists recent research developments in the area of Stance and Ideology (in political sense) Learning. This page includes a) Data repository b) Recent Publications c) Tutorials d) d) Other Useful Websites e) Related Work, but not necessarily on Stance
 
-If you are new to this field, the paper titled "Parinaz Sobhani, and Svetlana Kiritchenko. 2017. Stance and Sentiment in Tweets." is a good place to start.
+If you are new to this field, the paper titled "Saif M. Mohammad, Parinaz Sobhani, and Svetlana Kiritchenko. 2017. Stance and Sentiment in Tweets." is a good place to start.
 
 Table of content:
 
@@ -28,6 +28,8 @@ Task 6: Detecting Stance in Tweets http://alt.qcri.org/semeval2016/task6/
 
 2017, Dong, Rui, Yizhou Sun, Lu Wang, Yupeng Gu, and Yuan Zhong. "Weakly-Guided User Stance Prediction via Joint Modeling of Content and Social Interaction." In Proceedings of the 2017 ACM on Conference on Information and Knowledge Management, pp. 1249-1258. ACM, 2017. http://web.cs.ucla.edu/~yzsun/papers/2017_cikm_stance.pdf 
 
+2017, Gadek, Guillaume, Josefin Betsholtz, Alexandre Pauchet, Stéphan Brunessaux, Nicolas Malandain, and Laurent Vercouter. "Extracting Contextonyms from Twitter for Stance Detection." In ICAART (2), pp. 132-141. 2017. http://www.scitepress.org/Papers/2017/61909/61909.pdf 
+
 2017, Dey, Kuntal, Ritvik Shrivastava, and Saroj Kaushik. "Twitter stance detection-a subjectivity and sentiment polarity inspired two-phase approach." In SENTIRE Workshop, ICDM. 2017. http://sentic.net/sentire2017dey.pdf 
 
 2017, Shenoy, Gourav G., Erika H. Dsouza, and Sandra Kübler. "Performing Stance Detection on Twitter Data using Computational Linguistics Techniques." arXiv preprint arXiv:1703.02019 (2017). https://arxiv.org/pdf/1703.02019 
@@ -39,6 +41,8 @@ Task 6: Detecting Stance in Tweets http://alt.qcri.org/semeval2016/task6/
 2016, Ebrahimi, Javid, Dejing Dou, and Daniel Lowd. "A joint sentiment-target-stance model for stance classification in tweets." In Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: Technical Papers, pp. 2656-2665. 2016. 
 
 2016, Johnson, Kristen, and Dan Goldwasser. "Identifying stance by analyzing political discourse on twitter." In Proceedings of the First Workshop on NLP and Computational Social Science, pp. 66-75. 2016. http://www.aclweb.org/anthology/W16-5609
+
+2015, Sobhani, Parinaz, Diana Inkpen, and Stan Matwin. "From argumentation mining to stance classification." In Proceedings of the 2nd Workshop on Argumentation Mining, pp. 67-77. 2015. http://www.aclweb.org/anthology/W15-0509 
 
 2015, Sridhar, Dhanya, James Foulds, Bert Huang, Lise Getoor, and Marilyn Walker. "Joint models of disagreement and stance in online debate." In Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), vol. 1, pp. 116-125. 2015. http://www.aclweb.org/anthology/P15-1012
 
