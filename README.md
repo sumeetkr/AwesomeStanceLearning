@@ -1,7 +1,7 @@
 # Awesome Stance Learning
 The page lists recent research developments in the area of Stance and Ideology (in political sense) Learning. This page includes a) Data repository b) Recent Publications c) Tutorials d) d) Other Useful Websites e) Related Work, but not necessarily on Stance
 
-If you are new to this field, the paper titled "Saif M. Mohammad, Parinaz Sobhani, and Svetlana Kiritchenko. 2017. Stance and Sentiment in Tweets." is a good place to start.
+If you are new to this field, the paper titled "Stance and Sentiment in Tweets"  by Saif M. Mohammad, Parinaz Sobhani, and Svetlana Kiritchenko. 2017 is a good place to start.
 
 Table of content:
 
@@ -15,7 +15,9 @@ Table of content:
 
 2017, Simaki, Vasiliki, Carita Paradis, Maria Skeppstedt, Magnus Sahlgren, Kostiantyn Kucher, and Andreas Kerren. "Annotating speaker stance in discourse: the Brexit Blog Corpus." Corpus Linguistics and Linguistic Theory (2017).
 
-Task 6: Detecting Stance in Tweets http://alt.qcri.org/semeval2016/task6/ 
+2016, Task 6: Detecting Stance in Tweets http://alt.qcri.org/semeval2016/task6/ 
+
+2016, Toledo-Ronen, Orith, Roy Bar-Haim, and Noam Slonim. "Expert stance graphs for computational argumentation." In Proceedings of the Third Workshop on Argument Mining (ArgMining2016), pp. 119-123. 2016.
 
 # b) Publications
 2018, Myungha Jang, James Allan, Explaining Controversy on Social Media via Stance Summarization, https://people.cs.umass.edu/~mhjang/papers/ExplainControversySIGIR18.pdf
