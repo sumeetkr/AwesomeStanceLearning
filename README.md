@@ -6,6 +6,7 @@ If you are new to this field, the paper titled "Stance and Sentiment in Tweets" 
 Table of content:
 
 # a) Data repository 
+2018, Sobhani, Parinaz, Diana Inkpen, and Xiaodan Zhu. "A dataset for multi-target stance detection." In Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 2, Short Papers, vol. 2, pp. 551-557. 2017.
 
 2018, Myungha Jang, James Allan, Explaining Controversy on Social Media via Stance Summarization, SIGIR, https://people.cs.umass.edu/~mhjang/papers/ExplainControversySIGIR18.pdf
 
@@ -20,6 +21,8 @@ Table of content:
 2016, Toledo-Ronen, Orith, Roy Bar-Haim, and Noam Slonim. "Expert stance graphs for computational argumentation." In Proceedings of the Third Workshop on Argument Mining (ArgMining2016), pp. 119-123. 2016.
 
 # b) Publications
+
+2018, Wei, Penghui, Junjie Lin, and Wenji Mao. "Multi-Target Stance Detection via a Dynamic Memory-Augmented Network." In The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval, pp. 1229-1232. ACM, 2018.
 
 2018, Xu, Chang, Cecile Paris, Surya Nepal, and Ross Sparks. ["Cross-Target Stance Classification with Self-Attention Networks."](https://arxiv.org/pdf/1805.06593.pdf) arXiv preprint arXiv:1805.06593 (2018), ACL 2108
 
