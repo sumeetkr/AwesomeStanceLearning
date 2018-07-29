@@ -22,6 +22,8 @@ Table of content:
 
 # b) Publications
 
+2018, Lahoti, Preethi, Kiran Garimella, and Aristides Gionis. "Joint non-negative matrix factorization for learning ideological leaning on Twitter." In Proceedings of the Eleventh ACM International Conference on Web Search and Data Mining, pp. 351-359. ACM, 2018.
+
 2018, Wei, Penghui, Junjie Lin, and Wenji Mao. "Multi-Target Stance Detection via a Dynamic Memory-Augmented Network." In The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval, pp. 1229-1232. ACM, 2018.
 
 2018, Xu, Chang, Cecile Paris, Surya Nepal, and Ross Sparks. ["Cross-Target Stance Classification with Self-Attention Networks."](https://arxiv.org/pdf/1805.06593.pdf) arXiv preprint arXiv:1805.06593 (2018), ACL 2108
