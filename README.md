@@ -56,7 +56,14 @@ Table of content:
 
 2015, Sridhar, Dhanya, James Foulds, Bert Huang, Lise Getoor, and Marilyn Walker. "Joint models of disagreement and stance in online debate." In Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), vol. 1, pp. 116-125. 2015. http://www.aclweb.org/anthology/P15-1012
 
-2013, Gottipati, Swapna, Minghui Qiu, Liu Yang, Feida Zhu, and Jing Jiang. "Predicting user’s political party using ideological stances." In International Conference on Social Informatics, pp. 177-191. Springer, Cham, 2013. http://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=3096&context=sis_research 
+
+2014, Sridhar, D., Getoor, L., & Walker, M. (2014). [Collective stance classification of posts in online debate forums. In Proceedings of the Joint Workshop on Social Dynamics and Personal Attributes in Social Media (pp. 109-117).](http://www.aclweb.org/anthology/W14-2715)
+
+2013, Gottipati, Swapna, Minghui Qiu, Liu Yang, Feida Zhu, and Jing Jiang. ["Predicting user’s political party using ideological stances." In International Conference on Social Informatics, pp. 177-191. Springer, Cham, 2013. ](http://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=3096&context=sis_research) 
+
+2013, Hasan, K. S., & Ng, V. (2013). [Extra-linguistic constraints on stance recognition in ideological debates. In Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers) (Vol. 2, pp. 816-821).](http://www.aclweb.org/anthology/P13-2142)
+
+2013, Hasan, K. S., & Ng, V. (2013). [Stance classification of ideological debates: Data, models, features, and constraints. In Proceedings of the Sixth International Joint Conference on Natural Language Processing (pp. 1348-1356).](http://www.aclweb.org/anthology/I13-1191)
 
 
 2011, Anand, Pranav, Marilyn Walker, Rob Abbott, Jean E. Fox Tree, Robeson Bowmani, and Michael Minor. "Cats rule and dogs drool!: Classifying stance in online debate." In Proceedings of the 2nd workshop on computational approaches to subjectivity and sentiment analysis, pp. 1-9. Association for Computational Linguistics, 2011. https://aclanthology.info/pdf/W/W11/W11-1701.pdf 
