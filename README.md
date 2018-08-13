@@ -20,6 +20,8 @@ Table of content:
 
 2016, Toledo-Ronen, Orith, Roy Bar-Haim, and Noam Slonim. "Expert stance graphs for computational argumentation." In Proceedings of the Third Workshop on Argument Mining (ArgMining2016), pp. 119-123. 2016.
 
+2016, Ferreira, W., & Vlachos, A. (2016). Emergent: a novel data-set for stance classification. In Proceedings of the 2016 conference of the North American chapter of the association for computational linguistics: Human language technologies (pp. 1163-1168).
+
 # b) Publications
 
 2018, Lahoti, Preethi, Kiran Garimella, and Aristides Gionis. "Joint non-negative matrix factorization for learning ideological leaning on Twitter." In Proceedings of the Eleventh ACM International Conference on Web Search and Data Mining, pp. 351-359. ACM, 2018.
