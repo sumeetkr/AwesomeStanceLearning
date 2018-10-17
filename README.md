@@ -54,6 +54,8 @@ Table of content:
 
 2016, Johnson, Kristen, and Dan Goldwasser. "Identifying stance by analyzing political discourse on twitter." In Proceedings of the First Workshop on NLP and Computational Social Science, pp. 66-75. 2016. http://www.aclweb.org/anthology/W16-5609
 
+2016, Wojatzki, Michael, and Torsten Zesch. "Stance-based Argument Mining–Modeling Implicit Argumentation Using Stance." Proceedings of the KONVENS, Bochum, Germany (2016): 313-322. http://www.academia.edu/download/51214941/016-konvens2016.pdf#page=324
+
 2015, Sobhani, Parinaz, Diana Inkpen, and Stan Matwin. "From argumentation mining to stance classification." In Proceedings of the 2nd Workshop on Argumentation Mining, pp. 67-77. 2015. http://www.aclweb.org/anthology/W15-0509 
 
 2015, Sridhar, Dhanya, James Foulds, Bert Huang, Lise Getoor, and Marilyn Walker. "Joint models of disagreement and stance in online debate." In Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), vol. 1, pp. 116-125. 2015. http://www.aclweb.org/anthology/P15-1012
