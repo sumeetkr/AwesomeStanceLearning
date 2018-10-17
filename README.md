@@ -60,6 +60,7 @@ Table of content:
 
 2015, Sridhar, Dhanya, James Foulds, Bert Huang, Lise Getoor, and Marilyn Walker. "Joint models of disagreement and stance in online debate." In Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), vol. 1, pp. 116-125. 2015. http://www.aclweb.org/anthology/P15-1012
 
+2014, Hasan, Kazi Saidul, and Vincent Ng. "Why are you taking this stance? identifying and classifying reasons in ideological debates." In Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. 751-762. 2014. http://www.aclweb.org/anthology/D14-1083 
 
 2014, Sridhar, D., Getoor, L., & Walker, M. (2014). [Collective stance classification of posts in online debate forums. In Proceedings of the Joint Workshop on Social Dynamics and Personal Attributes in Social Media (pp. 109-117).](http://www.aclweb.org/anthology/W14-2715)
 
