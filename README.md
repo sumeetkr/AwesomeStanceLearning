@@ -24,8 +24,6 @@ Table of content:
 
 # b) Publications
 
-2018, Lahoti, Preethi, Kiran Garimella, and Aristides Gionis. "Joint non-negative matrix factorization for learning ideological leaning on Twitter." In Proceedings of the Eleventh ACM International Conference on Web Search and Data Mining, pp. 351-359. ACM, 2018.
-
 2018, Wei, Penghui, Junjie Lin, and Wenji Mao. "Multi-Target Stance Detection via a Dynamic Memory-Augmented Network." In The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval, pp. 1229-1232. ACM, 2018.
 
 2018, Xu, Chang, Cecile Paris, Surya Nepal, and Ross Sparks. ["Cross-Target Stance Classification with Self-Attention Networks."](https://arxiv.org/pdf/1805.06593.pdf) arXiv preprint arXiv:1805.06593 (2018), ACL 2108
@@ -48,6 +46,8 @@ Table of content:
 
 2017, Vilares, David, and Yulan He. "Detecting Perspectives in Political Debates." In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing, pp. 1573-1582. 2017. http://www.aclweb.org/anthology/D17-1165
 
+2016, Gu, Yupeng, Ting Chen, Yizhou Sun, and Bingyu Wang. "Ideology Detection for Twitter Users with Heterogeneous Types of Links." arXiv preprint arXiv:1612.08207 (2016).
+
 2016, Johnson, Kristen, and Dan Goldwasser. "[" All I know about politics is what I read in Twitter": Weakly Supervised Models for Extracting Politicians’ Stances From Twitter."](http://www.aclweb.org/anthology/C16-1279) In Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: Technical Papers, pp. 2966-2977. 2016 
 
 2016, Ebrahimi, Javid, Dejing Dou, and Daniel Lowd. "A joint sentiment-target-stance model for stance classification in tweets." In Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: Technical Papers, pp. 2656-2665. 2016. 
@@ -61,6 +61,8 @@ Table of content:
 2015, Sridhar, Dhanya, James Foulds, Bert Huang, Lise Getoor, and Marilyn Walker. "Joint models of disagreement and stance in online debate." In Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), vol. 1, pp. 116-125. 2015. http://www.aclweb.org/anthology/P15-1012
 
 2015, Lu, Haokai, James Caverlee, and Wei Niu. "Biaswatch: A lightweight system for discovering and tracking topic-sensitive opinion bias in social media." In Proceedings of the 24th ACM International on Conference on Information and Knowledge Management, pp. 213-222. ACM, 2015.
+
+2014, Gu, Yupeng, Yizhou Sun, Ning Jiang, Bingyu Wang, and Ting Chen. "Topic-factorized ideal point estimation model for legislative voting network." In Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining, pp. 183-192. ACM, 2014.
 
 2014, Hasan, Kazi Saidul, and Vincent Ng. "Why are you taking this stance? identifying and classifying reasons in ideological debates." In Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. 751-762. 2014. http://www.aclweb.org/anthology/D14-1083 
 
