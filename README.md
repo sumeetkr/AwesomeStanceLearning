@@ -46,6 +46,8 @@ Table of content:
 
 2017, Vilares, David, and Yulan He. "Detecting Perspectives in Political Debates." In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing, pp. 1573-1582. 2017. http://www.aclweb.org/anthology/D17-1165
 
+2016, Augenstein, Isabelle, Tim Rocktäschel, Andreas Vlachos, and Kalina Bontcheva. "Stance detection with bidirectional conditional encoding." arXiv preprint arXiv:1606.05464 (2016).
+
 2016, Gu, Yupeng, Ting Chen, Yizhou Sun, and Bingyu Wang. "Ideology Detection for Twitter Users with Heterogeneous Types of Links." arXiv preprint arXiv:1612.08207 (2016).
 
 2016, Johnson, Kristen, and Dan Goldwasser. "[" All I know about politics is what I read in Twitter": Weakly Supervised Models for Extracting Politicians’ Stances From Twitter."](http://www.aclweb.org/anthology/C16-1279) In Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: Technical Papers, pp. 2966-2977. 2016 
