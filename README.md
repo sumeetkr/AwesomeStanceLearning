@@ -46,6 +46,8 @@ Table of content:
 
 2017, Vilares, David, and Yulan He. "Detecting Perspectives in Political Debates." In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing, pp. 1573-1582. 2017. http://www.aclweb.org/anthology/D17-1165
 
+2016, Zubiaga, Arkaitz, Elena Kochkina, Maria Liakata, Rob Procter, and Michal Lukasik. "Stance classification in rumours as a sequential task exploiting the tree structure of social media conversations." arXiv preprint arXiv:1609.09028 (2016).
+
 2016, Augenstein, Isabelle, Tim Rocktäschel, Andreas Vlachos, and Kalina Bontcheva. "Stance detection with bidirectional conditional encoding." arXiv preprint arXiv:1606.05464 (2016).
 
 2016, Gu, Yupeng, Ting Chen, Yizhou Sun, and Bingyu Wang. "Ideology Detection for Twitter Users with Heterogeneous Types of Links." arXiv preprint arXiv:1612.08207 (2016).
