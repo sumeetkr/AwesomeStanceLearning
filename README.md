@@ -6,7 +6,7 @@ If you are new to this field, the paper titled "Stance and Sentiment in Tweets" 
 Table of content:
 
 # a) Data repository 
-2018, Sobhani, Parinaz, Diana Inkpen, and Xiaodan Zhu. "A dataset for multi-target stance detection." In Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 2, Short Papers, vol. 2, pp. 551-557. 2017.
+2018, Penghui Wei, Junjie Lin, and Wenji Mao. 2018. Multi-Target Stance Detection via a Dynamic Memory-Augmented Network. In The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval (SIGIR '18). ACM, New York, NY, USA, 1229-1232. DOI: https://doi.org/10.1145/3209978.3210145
 
 2018, Myungha Jang, James Allan, Explaining Controversy on Social Media via Stance Summarization, SIGIR, https://people.cs.umass.edu/~mhjang/papers/ExplainControversySIGIR18.pdf
 
