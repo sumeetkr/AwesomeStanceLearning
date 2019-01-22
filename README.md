@@ -46,6 +46,12 @@ Table of content:
 
 2017, Vilares, David, and Yulan He. "Detecting Perspectives in Political Debates." In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing, pp. 1573-1582. 2017. http://www.aclweb.org/anthology/D17-1165
 
+2016, Misra, Amita, Brian Ecker, Theodore Handleman, Nicolas Hahn, and Marilyn Walker. "NLDS-UCSC at SemEval-2016 task 6: a semi-supervised approach to detecting stance in tweets." In Proceedings of the 10th International Workshop on Semantic Evaluation (SemEval-2016), pp. 420-427. 2016.
+
+2016, Zarrella, Guido, and Amy Marsh. "MITRE at semeval-2016 task 6: Transfer learning for stance detection." arXiv preprint arXiv:1606.037
+
+2016, Wei, Wan, Xiao Zhang, Xuqin Liu, Wei Chen, and Tengjiao Wang. "pkudblab at semeval-2016 task 6: A specific convolutional neural network system for effective stance detection." In Proceedings of the 10th International Workshop on Semantic Evaluation (SemEval-2016), pp. 384-388. 2016.
+
 2016, Zubiaga, Arkaitz, Elena Kochkina, Maria Liakata, Rob Procter, and Michal Lukasik. "Stance classification in rumours as a sequential task exploiting the tree structure of social media conversations." arXiv preprint arXiv:1609.09028 (2016).
 
 2016, Augenstein, Isabelle, Tim Rocktäschel, Andreas Vlachos, and Kalina Bontcheva. "Stance detection with bidirectional conditional encoding." arXiv preprint arXiv:1606.05464 (2016).
