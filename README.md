@@ -1,7 +1,7 @@
 # Awesome Stance Learning
-The page lists recent research developments in the area of Stance and Ideology (in political sense) Learning. This page includes a) Data repository b) Recent Publications c) Tutorials d) d) Other Useful Websites e) Related Work, but not necessarily on Stance
+The page lists recent research developments in the area of Stance, Argumentation and Ideology (in political sense) Learning. This page includes a) Data repository b) Recent Publications c) Tutorials d) d) Other Useful Websites e) Related Work, but not necessarily on Stance
 
-If you are new to this field, the paper titled "Stance and Sentiment in Tweets"  by Saif M. Mohammad, Parinaz Sobhani, and Svetlana Kiritchenko. 2017 is a good place to start.
+If you are new to this field, the paper titled "Stance and Sentiment in Tweets"  by Saif M. Mohammad, Parinaz Sobhani, and Svetlana Kiritchenko. 2017 is a good place to start. If you would like me to add your (published) paper here, please send me and email.
 
 Table of content:
 
@@ -23,6 +23,8 @@ Table of content:
 2016, Ferreira, W., & Vlachos, A. (2016). Emergent: a novel data-set for stance classification. In Proceedings of the 2016 conference of the North American chapter of the association for computational linguistics: Human language technologies (pp. 1163-1168).
 
 # b) Publications
+2018, Combining Deep Learning and Argumentative Reasoning for the Analysis of Social Media Textual Content Using Small Data Sets
+Oana Cocarascu and Francesca Toni, Computational Linguistics 2018 Vol. 44, 833-858 
 
 2018, Wei, Penghui, Junjie Lin, and Wenji Mao. "Multi-Target Stance Detection via a Dynamic Memory-Augmented Network." In The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval, pp. 1229-1232. ACM, 2018.
 
