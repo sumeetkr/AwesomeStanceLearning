@@ -23,6 +23,8 @@ Table of content:
 2016, Ferreira, W., & Vlachos, A. (2016). Emergent: a novel data-set for stance classification. In Proceedings of the 2016 conference of the North American chapter of the association for computational linguistics: Human language technologies (pp. 1163-1168).
 
 # b) Publications
+Endang Wahyu Pamungkas, Valerio Basile, and Viviana Patti. 2018. Stance Classification for Rumour Analysis in Twitter: Exploiting Affective Information and Conversation Structure. In Proceedings of 2nd International Workshop on Rumours and Deception in Social Media (RDSM) co-located with International Conference on Information and Knowledge Management (RDSM, CIKM’18). ACM, New York, NY, USA http://static.aixpaper.com/pdf/6/af/arxiv.1901.01911.v1.pdf 
+
 2019, Qiang Zhang, Shangsong Liang, Aldo Lipani, Zhaochun Ren, and Emine Yilmaz. 2019. From Stances’ Imbalance to Their Hierarchical Representation and Detection. In Proceedings of the 2019 World Wide Web Conference (WWW ’19), May 13–17, 2019, San Francisco, CA, USA. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3308558.3313724
 
 2018, Penghui Wei, Junjie Lin, and Wenji Mao. 2018. Multi-Target Stance Detection via a Dynamic Memory-Augmented Network. In The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval (SIGIR '18). ACM, New York, NY, USA, 1229-1232. DOI: https://doi.org/10.1145/3209978.3210145
