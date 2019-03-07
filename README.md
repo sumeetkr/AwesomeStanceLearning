@@ -8,11 +8,7 @@ If you would like me to add your (published) paper here, please send me and emai
 Table of content:
 
 # a) Data repository 
-2019, Qiang Zhang, Shangsong Liang, Aldo Lipani, Zhaochun Ren, and Emine Yilmaz. 2019. From Stances’ Imbalance to Their Hierarchical Representation and Detection. In Proceedings of the 2019 World Wide Web Conference (WWW ’19), May 13–17, 2019, San Francisco, CA, USA. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3308558.3313724
 
-2018, Penghui Wei, Junjie Lin, and Wenji Mao. 2018. Multi-Target Stance Detection via a Dynamic Memory-Augmented Network. In The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval (SIGIR '18). ACM, New York, NY, USA, 1229-1232. DOI: https://doi.org/10.1145/3209978.3210145
-
-2018, Myungha Jang, James Allan, Explaining Controversy on Social Media via Stance Summarization, SIGIR, https://people.cs.umass.edu/~mhjang/papers/ExplainControversySIGIR18.pdf
 
 2018, Yoshioka, Masaharu, Myungha Jang, James Allan and Noriko Kando. “Visualizing Polarity-based Stances of News Websites.” NewsIR@ECIR (2018). http://ceur-ws.org/Vol-2079/paper2.pdf
 
@@ -27,6 +23,12 @@ Table of content:
 2016, Ferreira, W., & Vlachos, A. (2016). Emergent: a novel data-set for stance classification. In Proceedings of the 2016 conference of the North American chapter of the association for computational linguistics: Human language technologies (pp. 1163-1168).
 
 # b) Publications
+2019, Qiang Zhang, Shangsong Liang, Aldo Lipani, Zhaochun Ren, and Emine Yilmaz. 2019. From Stances’ Imbalance to Their Hierarchical Representation and Detection. In Proceedings of the 2019 World Wide Web Conference (WWW ’19), May 13–17, 2019, San Francisco, CA, USA. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3308558.3313724
+
+2018, Penghui Wei, Junjie Lin, and Wenji Mao. 2018. Multi-Target Stance Detection via a Dynamic Memory-Augmented Network. In The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval (SIGIR '18). ACM, New York, NY, USA, 1229-1232. DOI: https://doi.org/10.1145/3209978.3210145
+
+2018, Myungha Jang, James Allan, Explaining Controversy on Social Media via Stance Summarization, SIGIR, https://people.cs.umass.edu/~mhjang/papers/ExplainControversySIGIR18.pdf
+
 2018, Cabrio, Elena, and Serena Villata. "Five Years of Argument Mining: a Data-driven Analysis." In IJCAI, pp. 5427-5433. 2018. https://www.ijcai.org/proceedings/2018/0766.pdf
 
 2018, Combining Deep Learning and Argumentative Reasoning for the Analysis of Social Media Textual Content Using Small Data Sets
