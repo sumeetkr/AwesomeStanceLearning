@@ -8,6 +8,7 @@ If you would like me to add your (published) paper here, please send me and emai
 Table of content:
 
 # a) Data repository 
+Pheme Stance dataset: https://figshare.com/articles/PHEME_rumour_scheme_dataset_journalism_use_case/2068650
 
 2018, Yoshioka, Masaharu, Myungha Jang, James Allan and Noriko Kando. “Visualizing Polarity-based Stances of News Websites.” NewsIR@ECIR (2018). http://ceur-ws.org/Vol-2079/paper2.pdf
 
