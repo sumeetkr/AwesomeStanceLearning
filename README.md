@@ -12,9 +12,9 @@ Pheme Stance dataset: https://figshare.com/articles/PHEME_rumour_scheme_dataset_
 
 2018, Yoshioka, Masaharu, Myungha Jang, James Allan and Noriko Kando. “Visualizing Polarity-based Stances of News Websites.” NewsIR@ECIR (2018). http://ceur-ws.org/Vol-2079/paper2.pdf
 
-2017, Sobhani, Parinaz, Diana Inkpen, and Xiaodan Zhu. "A dataset for multi-target stance detection." In Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 2, Short Papers, vol. 2, pp. 551-557. 2017. https://www.degruyter.com/view/j/cllt.ahead-of-print/cllt-2016-0060/cllt-2016-0060.xml 
+2017, Simaki, Vasiliki, Carita Paradis, Maria Skeppstedt, Magnus Sahlgren, Kostiantyn Kucher, and Andreas Kerren. ["Annotating speaker stance in discourse: the Brexit Blog Corpus." Corpus Linguistics and Linguistic Theory (2017).](https://www.degruyter.com/view/j/cllt.ahead-of-print/cllt-2016-0060/cllt-2016-0060.xml)
 
-2017, Simaki, Vasiliki, Carita Paradis, Maria Skeppstedt, Magnus Sahlgren, Kostiantyn Kucher, and Andreas Kerren. "Annotating speaker stance in discourse: the Brexit Blog Corpus." Corpus Linguistics and Linguistic Theory (2017).
+2017, Sobhani, Parinaz, Diana Inkpen, and Xiaodan Zhu. ["A dataset for multi-target stance detection."](https://www.aclweb.org/anthology/E17-2088) In Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 2, Short Papers, vol. 2, pp. 551-557. 2017.  
 
 2016, Task 6: Detecting Stance in Tweets http://alt.qcri.org/semeval2016/task6/ 
 
