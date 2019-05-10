@@ -12,6 +12,8 @@ Pheme Stance dataset: https://figshare.com/articles/PHEME_rumour_scheme_dataset_
 
 2018, Yoshioka, Masaharu, Myungha Jang, James Allan and Noriko Kando. “Visualizing Polarity-based Stances of News Websites.” NewsIR@ECIR (2018). http://ceur-ws.org/Vol-2079/paper2.pdf
 
+2017, Li, C., Guo, X. and Mei, Q., 2017, February. [Deep memory networks for attitude identification.](https://arxiv.org/pdf/1701.04189.pdf) In Proceedings of the Tenth ACM International Conference on Web Search and Data Mining (pp. 671-680). ACM.
+
 2017, Simaki, Vasiliki, Carita Paradis, Maria Skeppstedt, Magnus Sahlgren, Kostiantyn Kucher, and Andreas Kerren. ["Annotating speaker stance in discourse: the Brexit Blog Corpus." Corpus Linguistics and Linguistic Theory (2017).](https://www.degruyter.com/view/j/cllt.ahead-of-print/cllt-2016-0060/cllt-2016-0060.xml)
 
 2017, Sobhani, Parinaz, Diana Inkpen, and Xiaodan Zhu. ["A dataset for multi-target stance detection."](https://www.aclweb.org/anthology/E17-2088) In Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 2, Short Papers, vol. 2, pp. 551-557. 2017.  
