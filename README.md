@@ -9,6 +9,7 @@ Table of content:
 
 # a) Data repository 
 Pheme Stance dataset: https://figshare.com/articles/PHEME_rumour_scheme_dataset_journalism_use_case/2068650
+2018, Benton, A. and Dredze, M., 2018. [Using Author Embeddings to Improve Tweet Stance Classification.](https://www.aclweb.org/anthology/W18-6124) In Proceedings of the 2018 EMNLP Workshop W-NUT: The 4th Workshop on Noisy User-generated Text (pp. 184-194).
 
 2018, Yoshioka, Masaharu, Myungha Jang, James Allan and Noriko Kando. “Visualizing Polarity-based Stances of News Websites.” NewsIR@ECIR (2018). http://ceur-ws.org/Vol-2079/paper2.pdf
 
