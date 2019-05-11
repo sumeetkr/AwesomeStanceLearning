@@ -28,6 +28,8 @@ Pheme Stance dataset: https://figshare.com/articles/PHEME_rumour_scheme_dataset_
 
 # b) Publications
 
+2019, Darwish, K., Stefanov, P., Aupetit, M.J. and Nakov, P., 2019. [Unsupervised User Stance Detection on Twitter](https://arxiv.org/pdf/1904.02000.pdf). arXiv preprint arXiv:1904.02000.
+
 2019, Qiang Zhang, Shangsong Liang, Aldo Lipani, Zhaochun Ren, and Emine Yilmaz. 2019. From Stances’ Imbalance to Their Hierarchical Representation and Detection. In Proceedings of the 2019 World Wide Web Conference (WWW ’19), May 13–17, 2019, San Francisco, CA, USA. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3308558.3313724
 
 2018, Endang Wahyu Pamungkas, Valerio Basile, and Viviana Patti. 2018. Stance Classification for Rumour Analysis in Twitter: Exploiting Affective Information and Conversation Structure. In Proceedings of 2nd International Workshop on Rumours and Deception in Social Media (RDSM) co-located with International Conference on Information and Knowledge Management (RDSM, CIKM’18). ACM, New York, NY, USA http://static.aixpaper.com/pdf/6/af/arxiv.1901.01911.v1.pdf 
