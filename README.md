@@ -23,7 +23,7 @@ Pheme Stance dataset: https://figshare.com/articles/PHEME_rumour_scheme_dataset_
 
 2016, Task 6: Detecting Stance in Tweets http://alt.qcri.org/semeval2016/task6/ 
 
-2016, Toledo-Ronen, Orith, Roy Bar-Haim, and Noam Slonim. "Expert stance graphs for computational argumentation." In Proceedings of the Third Workshop on Argument Mining (ArgMining2016), pp. 119-123. 2016.
+2016, Toledo-Ronen, Orith, Roy Bar-Haim, and Noam Slonim. "[Expert stance graphs for computational argumentation.](https://www.aclweb.org/anthology/W16-2814)" In Proceedings of the Third Workshop on Argument Mining (ArgMining2016), pp. 119-123. 2016.
 
 2016, Ferreira, W., & Vlachos, A. (2016). Emergent: a novel data-set for stance classification. In Proceedings of the 2016 conference of the North American chapter of the association for computational linguistics: Human language technologies (pp. 1163-1168).
 
