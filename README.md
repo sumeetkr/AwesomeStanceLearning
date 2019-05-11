@@ -8,6 +8,8 @@ If you would like me to add your (published) paper here, please send me and emai
 Table of content:
 
 # a) Data repository 
+2019, Küçük, D. and Can, F., 2019. [A Tweet Dataset Annotated for Named Entity Recognition and Stance Detection](https://arxiv.org/pdf/1901.04787.pdf). arXiv preprint arXiv:1901.04787.
+
 Pheme Stance dataset: https://figshare.com/articles/PHEME_rumour_scheme_dataset_journalism_use_case/2068650
 2018, Benton, A. and Dredze, M., 2018. [Using Author Embeddings to Improve Tweet Stance Classification.](https://www.aclweb.org/anthology/W18-6124) In Proceedings of the 2018 EMNLP Workshop W-NUT: The 4th Workshop on Noisy User-generated Text (pp. 184-194).
 
