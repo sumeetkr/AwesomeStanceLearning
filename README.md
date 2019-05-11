@@ -1,9 +1,9 @@
 # Awesome Stance Learning
-The page lists recent research developments in the area of Stance, Argumentation and Ideology (in political sense) Learning. This page includes a) Data repository b) Recent Publications c) Tutorials d) d) Other Useful Websites e) Related Work, but not necessarily on Stance
+The page lists recent research developments in the area of Stance, Argumentation and Ideology (in political sense) Learning. This page includes a) Data repository b) Recent Publications c) Tutorials d) Other Useful Websites e) Related Work, but not necessarily on Stance
 
 If you are new to this field, the paper titled "Stance and Sentiment in Tweets"  by Saif M. Mohammad, Parinaz Sobhani, and Svetlana Kiritchenko, 2017 is a good place to start. If intereseted in argumentation, the paper titled "Five Years of Argument Mining: a Data-driven Analysis" is a good start. 
 
-If you would like me to add your (published) paper here, please send me and email.
+If you would like me to add your (published) paper here, please email.
 
 Table of content:
 
