@@ -99,6 +99,8 @@ A. Sasaki, J. Mizuno, N. Okazaki and K. Inui, ["Stance Classification by Recogni
 
 2015, Lu, Haokai, James Caverlee, and Wei Niu. "Biaswatch: A lightweight system for discovering and tracking topic-sensitive opinion bias in social media." In Proceedings of the 24th ACM International on Conference on Information and Knowledge Management, pp. 213-222. ACM, 2015.
 
+2014, Akoglu, Leman. ["Quantifying political polarity based on bipartite opinion networks."](https://pdfs.semanticscholar.org/5515/58995669a43113c85b638a89adb5775cc2ce.pdf) In Eighth International AAAI Conference on Weblogs and Social Media. 2014.
+
 2014, Gu, Yupeng, Yizhou Sun, Ning Jiang, Bingyu Wang, and Ting Chen. "Topic-factorized ideal point estimation model for legislative voting network." In Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining, pp. 183-192. ACM, 2014.
 
 2014, Hasan, Kazi Saidul, and Vincent Ng. "Why are you taking this stance? identifying and classifying reasons in ideological debates." In Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. 751-762. 2014. http://www.aclweb.org/anthology/D14-1083 
