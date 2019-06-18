@@ -71,6 +71,8 @@ Oana Cocarascu and Francesca Toni, Computational Linguistics 2018 Vol. 44, 833-8
 
 2017, Vilares, David, and Yulan He. "Detecting Perspectives in Political Debates." In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing, pp. 1573-1582. 2017. http://www.aclweb.org/anthology/D17-1165
 
+A. Sasaki, J. Mizuno, N. Okazaki and K. Inui, ["Stance Classification by Recognizing Related Events about Targets," 2016 IEEE/WIC/ACM International Conference on Web Intelligence (WI), Omaha, NE, 2016, pp. 582-587.](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7817117&isnumber=7817017)
+
 2016, Misra, Amita, Brian Ecker, Theodore Handleman, Nicolas Hahn, and Marilyn Walker. "NLDS-UCSC at SemEval-2016 task 6: a semi-supervised approach to detecting stance in tweets." In Proceedings of the 10th International Workshop on Semantic Evaluation (SemEval-2016), pp. 420-427. 2016.
 
 2016, Zarrella, Guido, and Amy Marsh. "MITRE at semeval-2016 task 6: Transfer learning for stance detection." arXiv preprint arXiv:1606.037
