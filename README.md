@@ -8,6 +8,7 @@ If you would like me to add your (published) paper here, please email.
 Table of content:
 
 # a) Data repository/papers 
+
 2019, Küçük, D. and Can, F., 2019. [A Tweet Dataset Annotated for Named Entity Recognition and Stance Detection](https://arxiv.org/pdf/1901.04787.pdf). arXiv preprint arXiv:1901.04787.
 
 Pheme Stance dataset: https://figshare.com/articles/PHEME_rumour_scheme_dataset_journalism_use_case/2068650
@@ -28,6 +29,8 @@ Pheme Stance dataset: https://figshare.com/articles/PHEME_rumour_scheme_dataset_
 2016, Ferreira, W., & Vlachos, A. (2016). [Emergent: a novel data-set for stance classification](https://www.aclweb.org/anthology/N16-1138). In Proceedings of the 2016 conference of the North American chapter of the association for computational linguistics: Human language technologies (pp. 1163-1168).
 
 # b) Publications
+2019, Esin Durmus, Faisal Ladhak, and Claire Cardie [Determining Relative Argument Specificity and Stancefor Complex Argumentative Structures](https://www.aclweb.org/anthology/P19-1456), In Proceedings of 57th Annual Meeting of the Association for Computational Linguistics (ACL), Florence, Italy
+
 2019 Chang Xu, Cecile Paris, Surya Nepal,and Ross Sparks, [Recognising Agreement and Disagreement between Stances with Reason
 Comparing Networks](https://www.aclweb.org/anthology/P19-1460), In Proceedings of 57th Annual Meeting of the Association for Computational Linguistics (ACL), Florence, Italy
 
