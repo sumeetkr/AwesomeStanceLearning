@@ -30,12 +30,12 @@ Pheme Stance dataset: https://figshare.com/articles/PHEME_rumour_scheme_dataset_
 
 # b) Publications
 2019, Sumeet Kumar, and Kathleen M. Carley [Tree LSTMs with Convolution Units to Predict Stance and Rumor
-Veracity in Social Media Conversations](https://www.aclweb.org/anthology/P19-1498), In Proceedings of 57th Annual Meeting of the Association for Computational Linguistics (ACL), Florence, Italy
+Veracity in Social Media Conversations](https://www.aclweb.org/anthology/P19-1498), Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 5047–5058, Florence, Italy, July 28 - August 2, 2019.
 
-2019, Esin Durmus, Faisal Ladhak, and Claire Cardie [Determining Relative Argument Specificity and Stancefor Complex Argumentative Structures](https://www.aclweb.org/anthology/P19-1456), In Proceedings of 57th Annual Meeting of the Association for Computational Linguistics (ACL), Florence, Italy
+2019, Esin Durmus, Faisal Ladhak, and Claire Cardie [Determining Relative Argument Specificity and Stancefor Complex Argumentative Structures](https://www.aclweb.org/anthology/P19-1456), Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 4630–4641 Florence, Italy, July 28 - August 2, 2019
 
 2019 Chang Xu, Cecile Paris, Surya Nepal,and Ross Sparks, [Recognising Agreement and Disagreement between Stances with Reason
-Comparing Networks](https://www.aclweb.org/anthology/P19-1460), In Proceedings of 57th Annual Meeting of the Association for Computational Linguistics (ACL), Florence, Italy
+Comparing Networks](https://www.aclweb.org/anthology/P19-1460),Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 4665–4671, Florence, Italy, July 28 - August 2, 2019. 
 
 2019 Zhaohao Zeng, Ruihua Song, Pingping Lin, and Tetsuya Sakai. 2019. [Attitude Detection for One-Round Conversation: Jointly Extracting Target-Polarity Pairs](https://doi.org/10.1145/3289600.3291038). In Proceedings of the Twelfth ACM International Conference on Web Search and Data Mining (WSDM '19). ACM, New York, NY, USA, 285-293. DOI: https://doi.org/10.1145/3289600.3291038
 
