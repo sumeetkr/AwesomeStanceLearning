@@ -7,7 +7,7 @@ If you would like me to add your (published) paper here, please email.
 
 Table of content:
 
-# a) Data repository 
+# a) Data repository/papers 
 2019, Küçük, D. and Can, F., 2019. [A Tweet Dataset Annotated for Named Entity Recognition and Stance Detection](https://arxiv.org/pdf/1901.04787.pdf). arXiv preprint arXiv:1901.04787.
 
 Pheme Stance dataset: https://figshare.com/articles/PHEME_rumour_scheme_dataset_journalism_use_case/2068650
@@ -28,6 +28,9 @@ Pheme Stance dataset: https://figshare.com/articles/PHEME_rumour_scheme_dataset_
 2016, Ferreira, W., & Vlachos, A. (2016). [Emergent: a novel data-set for stance classification](https://www.aclweb.org/anthology/N16-1138). In Proceedings of the 2016 conference of the North American chapter of the association for computational linguistics: Human language technologies (pp. 1163-1168).
 
 # b) Publications
+2019 Chang Xu, Cecile Paris, Surya Nepal,and Ross Sparks, [Recognising Agreement and Disagreement between Stances with Reason
+Comparing Networks](https://www.aclweb.org/anthology/P19-1460), In Proceedings of 57th Annual Meeting of the Association for Computational Linguistics (ACL), Florence, Italy
+
 2019 Zhaohao Zeng, Ruihua Song, Pingping Lin, and Tetsuya Sakai. 2019. [Attitude Detection for One-Round Conversation: Jointly Extracting Target-Polarity Pairs](https://doi.org/10.1145/3289600.3291038). In Proceedings of the Twelfth ACM International Conference on Web Search and Data Mining (WSDM '19). ACM, New York, NY, USA, 285-293. DOI: https://doi.org/10.1145/3289600.3291038
 
 2019, Darwish, K., Stefanov, P., Aupetit, M.J. and Nakov, P., 2019. [Unsupervised User Stance Detection on Twitter](https://arxiv.org/pdf/1904.02000.pdf). arXiv preprint arXiv:1904.02000.
