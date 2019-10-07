@@ -9,6 +9,7 @@ Table of content:
 
 # a) Data repository/papers 
 
+
 2019, Küçük, D. and Can, F., 2019. [A Tweet Dataset Annotated for Named Entity Recognition and Stance Detection](https://arxiv.org/pdf/1901.04787.pdf). arXiv preprint arXiv:1901.04787.
 
 Pheme Stance dataset: https://figshare.com/articles/PHEME_rumour_scheme_dataset_journalism_use_case/2068650
@@ -29,6 +30,8 @@ Pheme Stance dataset: https://figshare.com/articles/PHEME_rumour_scheme_dataset_
 2016, Ferreira, W., & Vlachos, A. (2016). [Emergent: a novel data-set for stance classification](https://www.aclweb.org/anthology/N16-1138). In Proceedings of the 2016 conference of the North American chapter of the association for computational linguistics: Human language technologies (pp. 1163-1168).
 
 # b) Publications
+2019, Ma, Weizhi, Zhen Wang, Min Zhang, Jing Qian, Huanbo Luan, Yiqun Liu, and Shaoping Ma. "[Stance Influences Your Thoughts: Psychology-Inspired Social Media Analytics.](https://link.springer.com/chapter/10.1007/978-3-030-32233-5_53) " In CCF International Conference on Natural Language Processing and Chinese Computing, pp. 685-697. Springer, Cham, 2019.
+
 2019, Sumeet Kumar, and Kathleen M. Carley [Tree LSTMs with Convolution Units to Predict Stance and Rumor
 Veracity in Social Media Conversations](https://www.aclweb.org/anthology/P19-1498), Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 5047–5058, Florence, Italy, July 28 - August 2, 2019.
 
