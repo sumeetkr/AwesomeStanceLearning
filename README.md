@@ -30,6 +30,8 @@ Pheme Stance dataset: https://figshare.com/articles/PHEME_rumour_scheme_dataset_
 2016, Ferreira, W., & Vlachos, A. (2016). [Emergent: a novel data-set for stance classification](https://www.aclweb.org/anthology/N16-1138). In Proceedings of the 2016 conference of the North American chapter of the association for computational linguistics: Human language technologies (pp. 1163-1168).
 
 # b) Publications
+Abeer Aldayel and Walid Magdy. 2019. [Your Stance is Exposed! Analysing Possible Factors for Stance Detection on Social Media.](https://arxiv.org/abs/1908.03146) Proc. ACM Hum.-Comput. Interact. 3, CSCW, Article 205 (November 2019), 20 pages. DOI: https://doi.org/10.1145/3359307
+
 2019, Ma, Weizhi, Zhen Wang, Min Zhang, Jing Qian, Huanbo Luan, Yiqun Liu, and Shaoping Ma. "[Stance Influences Your Thoughts: Psychology-Inspired Social Media Analytics.](https://link.springer.com/chapter/10.1007/978-3-030-32233-5_53) " In CCF International Conference on Natural Language Processing and Chinese Computing, pp. 685-697. Springer, Cham, 2019.
 
 2019, Sumeet Kumar, and Kathleen M. Carley [Tree LSTMs with Convolution Units to Predict Stance and Rumor
