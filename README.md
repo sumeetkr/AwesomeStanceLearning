@@ -114,6 +114,8 @@ A. Sasaki, J. Mizuno, N. Okazaki and K. Inui, ["Stance Classification by Recogni
 
 2015, Lu, Haokai, James Caverlee, and Wei Niu. "Biaswatch: A lightweight system for discovering and tracking topic-sensitive opinion bias in social media." In Proceedings of the 24th ACM International on Conference on Information and Knowledge Management, pp. 213-222. ACM, 2015.
 
+2014, Gao H, Mahmud J, Chen J, Nichols J, Zhou M. [Modeling user attitude toward controversial topics in online social media](https://pdfs.semanticscholar.org/f130/331bb1e1bf590bd8d470ccbd5e8a74f135b0.pdf). InEighth International AAAI Conference on Weblogs and Social Media 2014 May 16.
+
 2014, Akoglu, Leman. ["Quantifying political polarity based on bipartite opinion networks."](https://pdfs.semanticscholar.org/5515/58995669a43113c85b638a89adb5775cc2ce.pdf) In Eighth International AAAI Conference on Weblogs and Social Media. 2014.
 
 2014, Gu, Yupeng, Yizhou Sun, Ning Jiang, Bingyu Wang, and Ting Chen. "Topic-factorized ideal point estimation model for legislative voting network." In Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining, pp. 183-192. ACM, 2014.
