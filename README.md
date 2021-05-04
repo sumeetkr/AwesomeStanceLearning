@@ -9,6 +9,7 @@ Table of content:
 
 # a) Data repository/papers 
 
+2020, Conforti, C., Berndt, J., Pilehvar, M. T., Giannitsarou, C., Toxvaerd, F., & Collier, N. (2020, July). [Will-They-Won’t-They: A Very Large Dataset for Stance Detection on Twitter](https://www.aclweb.org/anthology/2020.acl-main.157.pdf). In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (pp. 1715-1724).
 
 2019, Küçük, D. and Can, F., 2019. [A Tweet Dataset Annotated for Named Entity Recognition and Stance Detection](https://arxiv.org/pdf/1901.04787.pdf). arXiv preprint arXiv:1901.04787.
 
