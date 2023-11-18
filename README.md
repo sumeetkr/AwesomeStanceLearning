@@ -31,6 +31,11 @@ Pheme Stance dataset: https://figshare.com/articles/PHEME_rumour_scheme_dataset_
 2016, Ferreira, W., & Vlachos, A. (2016). [Emergent: a novel data-set for stance classification](https://www.aclweb.org/anthology/N16-1138). In Proceedings of the 2016 conference of the North American chapter of the association for computational linguistics: Human language technologies (pp. 1163-1168).
 
 # b) Publications
+
+2023, Joseph Gatto, Omar Sharif, Sarah M. Preum, [Chain-of-Thought Embeddings for Stance Detection on Social Media](https://arxiv.org/abs/2310.19750), Proc. EMNLP-2023, 8 pages, 6-10 December, 2023.
+
+2023, Bowen Zhang, Daijun Ding, Liwen Jing, [How would Stance Detection Techniques Evolve after the Launch of ChatGPT?](https://arxiv.org/abs/2212.14548), arXiv preprint arXiv:2212.14548, 10 April 2023.
+
 Abeer Aldayel and Walid Magdy. 2019. [Your Stance is Exposed! Analysing Possible Factors for Stance Detection on Social Media.](https://arxiv.org/abs/1908.03146) Proc. ACM Hum.-Comput. Interact. 3, CSCW, Article 205 (November 2019), 20 pages. DOI: https://doi.org/10.1145/3359307
 
 2019, Ma, Weizhi, Zhen Wang, Min Zhang, Jing Qian, Huanbo Luan, Yiqun Liu, and Shaoping Ma. "[Stance Influences Your Thoughts: Psychology-Inspired Social Media Analytics.](https://link.springer.com/chapter/10.1007/978-3-030-32233-5_53) " In CCF International Conference on Natural Language Processing and Chinese Computing, pp. 685-697. Springer, Cham, 2019.
